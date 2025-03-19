@@ -3,3 +3,4 @@
   * [机器学习基础](ai-learning.md#机器学习基础)
   * [深度学习框架](ai-learning.md#深度学习框架)
   * [实践案例](ai-learning.md#实践案例)
+* [平台搭建指南](使用docsify%20+%20trae搭建个人知识平台.md)
